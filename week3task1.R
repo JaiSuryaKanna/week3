@@ -172,3 +172,4 @@ $logical_element
 cat("Second Element of the Nested List:\n", second_element, "\n")
 Second Element of the Nested List:
   42 
+
